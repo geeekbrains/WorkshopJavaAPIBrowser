@@ -1,0 +1,6 @@
+# Project exclude paths
+/target/
+/.idea/
+/.github/
+AutoTestExample.iml
+mvnw.cmd
